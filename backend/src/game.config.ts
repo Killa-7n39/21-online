@@ -13,7 +13,7 @@ export default {
   roundStateEndTimePlayer: 500,
 
   minBet: 1,
-  maxBet: 1000,
+  maxBet: 100000,
   initialPlayerMoney: 10000,
   initialPlayerBet: 50,
 
